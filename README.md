@@ -21,6 +21,8 @@ Arduino controlled.   Small Scale
 
 Version 3
 
+Bright Red LED one.
+
 
 Version 4
 
